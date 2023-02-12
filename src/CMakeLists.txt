@@ -1,6 +1,8 @@
 find_package(PkgConfig REQUIRED)
 #set(OPENSSL_USE_STATIC_LIBS TRUE)
 find_package(OpenSSL REQUIRED)
+set(CMAKE_PREFIX_PATH "${CMAKE_PREFIX_PATH};/Users/parshantsingh/projects/safeheron-crypto-suites-cpp/")
+set(SafeheronCryptoSuites_DIR "/Users/parshantsingh/projects/safeheron-crypto-suites-cpp/build")
 find_package(SafeheronCryptoSuites REQUIRED)
 
 add_library(${CMAKE_PROJECT_NAME} SHARED

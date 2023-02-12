@@ -5,6 +5,9 @@ project("CryptoTSSRSA" VERSION 1.0.1)
 set(CMAKE_CXX_STANDARD 11)
 #SET(CMAKE_BUILD_TYPE "Debug")
 SET(CMAKE_BUILD_TYPE "Release")
+set(CMAKE_PREFIX_PATH "${CMAKE_PREFIX_PATH};/Users/parshantsingh/projects/safeheron-crypto-suites-cpp/")
+set(SafeheronCryptoSuites_DIR "/Users/parshantsingh/projects/safeheron-crypto-suites-cpp/build")
+
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O2 -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O2 -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable")
 
