@@ -78,6 +78,9 @@ Verify Sig: 1
 extracted bloom_str: 111010001101000011101100111001010101000101101110
 ```
 
+# Benchmarks
+
+<img width="1181" alt="Screenshot 2023-02-18 at 15 18 49" src="https://user-images.githubusercontent.com/65491540/219870784-76d4bb5e-c625-4f38-b961-feb326253334.png">
 
 
 # Reference
