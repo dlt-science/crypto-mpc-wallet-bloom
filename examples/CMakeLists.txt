@@ -15,10 +15,14 @@ find_package(SafeheronCryptoSuites REQUIRED)
 find_package(CryptoTSSRSA REQUIRED)
 
 add_executable(${PROJECT_NAME} example.cpp)
+
+add_library(bloomfilter SHARED ../src/crypto-tss-rsa/BloomFilter.cpp)
+
 target_include_directories(${PROJECT_NAME} PUBLIC
         ${SafeheronCryptoSuites_INCLUDE_DIRS}
         ${CryptoTSSRSA_INCLUDE_DIRS}
         /usr/local/include  # This directory is included default on linux but not on Mac os
+        ../src/crypto-tss-rsa
         )
 
 # This directory is included default on linux but not on Mac os
@@ -27,4 +31,5 @@ target_link_directories(${PROJECT_NAME} PUBLIC /usr/local/lib)
 target_link_libraries(${PROJECT_NAME} PUBLIC
         SafeheronCryptoSuites
         CryptoTSSRSA
+        bloomfilter
         pthread )

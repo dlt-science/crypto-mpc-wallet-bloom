@@ -1,8 +1,6 @@
 find_package(PkgConfig REQUIRED)
 #set(OPENSSL_USE_STATIC_LIBS TRUE)
 find_package(OpenSSL REQUIRED)
-set(CMAKE_PREFIX_PATH "${CMAKE_PREFIX_PATH};/Users/parshantsingh/projects/safeheron-crypto-suites-cpp/")
-set(SafeheronCryptoSuites_DIR "/Users/parshantsingh/projects/safeheron-crypto-suites-cpp/build")
 find_package(SafeheronCryptoSuites REQUIRED)
 
 add_library(${CMAKE_PROJECT_NAME} SHARED
@@ -14,6 +12,7 @@ add_library(${CMAKE_PROJECT_NAME} SHARED
         crypto-tss-rsa/RSASigShareProof.cpp
         crypto-tss-rsa/tss_rsa.cpp
         crypto-tss-rsa/emsa_pss.cpp
+        crypto-tss-rsa/BloomFilter.cpp
         crypto-tss-rsa/proto_gen/tss_rsa.pb.switch.cc
         )
 

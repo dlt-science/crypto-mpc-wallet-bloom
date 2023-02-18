@@ -7,6 +7,7 @@
 #include <string>
 #include <vector>
 #include <openssl/sha.h>
+#include "../src/crypto-tss-rsa/BloomFilter.h"
 
 using safeheron::bignum::BN;
 using safeheron::exception::BadAllocException;
@@ -18,67 +19,6 @@ using safeheron::tss_rsa::RSAKeyMeta;
 using safeheron::tss_rsa::RSAPrivateKeyShare;
 using safeheron::tss_rsa::RSAPublicKey;
 using safeheron::tss_rsa::RSASigShare;
-
-// Size of the bloom filter
-const int M = 48;
-// Number of hash functions
-const int K = 17;
-
-// Transaction structure
-struct Transaction
-{
-    std::bitset<M> bloom_filter;
-    std::string data;
-};
-
-// Hash function
-std::string hash(const std::bitset<M> &bloom_filter)
-{
-    // Convert the bloom filter to a string
-    std::string bloom_str = bloom_filter.to_string();
-
-    // Compute the SHA256 hash of the string
-    unsigned char digest[SHA256_DIGEST_LENGTH];
-    SHA256((const unsigned char *)bloom_str.c_str(), bloom_str.size(), digest);
-
-    // Convert the hash to a string
-    std::string hash_str((char *)digest, SHA256_DIGEST_LENGTH);
-    return hash_str;
-}
-
-// Extract bloom filter from transaction
-std::bitset<M> extract_bloom_filter_from_transaction(const std::string &transaction_data)
-{
-    // Extract the hash of the bloom filter from the transaction data
-    std::string bloom_hash = transaction_data.substr(transaction_data.size() - SHA256_DIGEST_LENGTH);
-    // std::cout << "transaction_data: " << transaction_data << std::endl;
-    // std::cout << "bloom_hash: " << bloom_hash << std::endl;
-
-    // Compute the SHA256 hash of the extracted hash
-    unsigned char digest[SHA256_DIGEST_LENGTH];
-    SHA256((const unsigned char *)bloom_hash.c_str(), bloom_hash.size(), digest);
-    std::string computed_hash_str((char *)digest, SHA256_DIGEST_LENGTH);
-
-    // std::cout << "computed_hash_str: " << computed_hash_str << std::endl;
-
-    // Compute the SHA256 hash of the bloom filter
-    std::string bloom_str = transaction_data.substr(transaction_data.size() - SHA256_DIGEST_LENGTH - M / 8, M / 8);
-
-    // std::cout << "bloom_str: " << transaction_data << std::endl;
-
-    std::bitset<M> bloom_filter(bloom_str);
-    std::string bloom_hash_str = hash(bloom_filter);
-
-    // Compare the computed hash with the hash of the bloom filter
-    if (computed_hash_str == bloom_hash_str)
-    {
-        return bloom_filter;
-    }
-    else
-    {
-        throw std::runtime_error("Invalid bloom filter hash in transaction data");
-    }
-}
 
 int main(int argc, char **argv)
 {
@@ -103,37 +43,16 @@ int main(int argc, char **argv)
     priv_arr[0].ToJsonString(json_str);
     std::cout << "private key share 1: " << json_str << std::endl;
 
-    std::vector<int> hash_indices(K);
-    for (int i = 0; i < K; i++)
-    {
-        hash_indices[i] = std::hash<std::string>()(std::to_string(i) + json_str) % M;
-    }
-
-    // Set the bits in the bloom filter
-    for (int index : hash_indices)
-    {
-        transaction.bloom_filter.set(index);
-    }
+    safeheron::tss_rsa::update_bloom_filter(transaction, json_str);
+    std::cout << "bloom filter after share1: " << transaction.bloom_filter << std::endl;
 
     priv_arr[1].ToJsonString(json_str);
     std::cout << "private key share 2: " << json_str << std::endl;
 
-    for (int i = 0; i < K; i++)
-    {
-        hash_indices[i] = std::hash<std::string>()(std::to_string(i) + json_str) % M;
-        std::cout << "hash index: " << hash_indices[i] << std::endl;
-    }
+    safeheron::tss_rsa::update_bloom_filter(transaction, json_str);
+    std::cout << "bloom filter after share 2: " << transaction.bloom_filter << std::endl;
 
-    // Set the bits in the bloom filter
-    for (int index : hash_indices)
-    {
-        transaction.bloom_filter.set(index);
-    }
-
-    std::cout << "bloom filter: " << transaction.bloom_filter << std::endl;
-
-    std::string bloom_hash = hash(transaction.bloom_filter);
-    transaction.data = "random_data";
+    transaction.data = "transaction_data";
     transaction.data += transaction.bloom_filter.to_string();
 
     std::cout << "transaction data: " << transaction.data << std::endl;
@@ -167,8 +86,6 @@ int main(int argc, char **argv)
     std::cout << "Verify Sig: " << pub.VerifySignature(doc_pss, sig) << std::endl;
 
     // Extract the bloom filter from the signed transaction
-    std::string bloom_str = transaction.data.substr(transaction.data.size() - transaction.bloom_filter.size(), transaction.data.size());
-    std::cout << "extracted bloom_str: " << bloom_str << std::endl;
-    std::cout << "extracted bloom_str: " << bloom_str.size() << std::endl;
+    std::cout << "extracted bloom_str: " << safeheron::tss_rsa::extract_bloom_filter(transaction) << std::endl;
     return 0;
 }
