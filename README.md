@@ -1,8 +1,8 @@
 # Build and Install
 
 ```shell
-git clone https://github.com/safeheron/tss-rsa-cpp.git
-cd tss-rsa-cpp
+git clone https://github.com/singhparshant/Crypto-MPC-Wallet.git
+cd Crypto-MPC-Wallet
 mkdir build && cd build
 # Run "cmake .. -DOPENSSL_ROOT_DIR=Your-Root-Directory-of-OPENSSL" instead of the command below on Mac OS.
 cmake .. -DENABLE_TESTS=ON
@@ -17,7 +17,7 @@ sudo make install
 Compile and run benchmark:
 
 ```c++
-cd crypto-tss-rsa-cpp
+cd Crypto-MPC-Wallet
 mkdir build && cd build
 cmake .. -DOPENSSL_ROOT_DIR=/opt/homebrew/opt/openssl@1.1 -DENABLE_TESTS=ON -DENABLE_BENCHMARK=ON
 make

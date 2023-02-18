@@ -144,7 +144,6 @@ int main(int argc, char **argv)
     // Verify 10 * "n_key_pairs" signatures
     ::benchmark::RegisterBenchmark("BM_verifySig", &BM_verifySig)->Iterations(10)->Unit(benchmark::kSecond);
     // Update bloom filter
-    ::benchmark::RegisterBenchmark("BM_updateBloomFilter", &BM_update_bloom_filter, transaction, json_str)->Iterations(10)->Unit(benchmark::kSecond);
     ::benchmark::RegisterBenchmark("BM_updateBloomFilter", [&transaction, &json_str](benchmark::State &state)
                                    { BM_update_bloom_filter(state, transaction, json_str); })
         ->Iterations(10)
