@@ -28,6 +28,9 @@ const retries = 500
 // 8 bit fingerprint size equals to a false positive rate ~= 0.03
 var b_size uint = 8
 
+// Another option is b_size=4, f=16 bit,
+//which correspond to a false positive rate of r ~= 0.0001
+
 // Set default filter capacity of entries to 4
 // based on the paper https://www.pdl.cmu.edu/PDL-FTP/FS/cuckoo-conext2014.pdf
 var b uint = 4 // number of entries or fingerprints per bucket
