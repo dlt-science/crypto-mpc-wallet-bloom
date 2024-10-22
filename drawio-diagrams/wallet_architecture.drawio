@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0" pages="7">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="598" dy="1508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="356" dy="1371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIoKPEtFllsg_iDvEtWE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="SIoKPEtFllsg_iDvEtWE-20" edge="1">
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#B85450;" parent="1" source="SIoKPEtFllsg_iDvEtWE-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="179" y="-212" as="sourcePoint" />
             <mxPoint x="309" y="-202" as="targetPoint" />
@@ -170,6 +170,11 @@
               <mxPoint x="179" y="-202" />
               <mxPoint x="309" y="-202" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSkQstID_xtaI9SZuhtN-3" value="&lt;font color=&quot;#b85450&quot;&gt;&lt;b&gt;user pays&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#b85450&quot;&gt;&lt;b&gt;protocol fee&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SIoKPEtFllsg_iDvEtWE-68">
+          <mxGeometry x="0.2901" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LlkiGG_l6i4G1gKVPcp_-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=bottom;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;spacingBottom=-6;" parent="1" vertex="1">
