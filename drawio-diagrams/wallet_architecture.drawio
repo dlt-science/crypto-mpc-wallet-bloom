@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="6">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="1456" dy="2009" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="2305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/48-Bank_safe-128.png" vertex="1" parent="1">
-          <mxGeometry x="585.5" y="-618" width="85" height="85" as="geometry" />
+          <mxGeometry x="585.5" y="-768" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A0522D;" vertex="1" parent="1">
           <mxGeometry x="246" y="-279" width="200" height="178" as="geometry" />
@@ -223,35 +223,56 @@
         <mxCell id="SIoKPEtFllsg_iDvEtWE-2" value="" style="sketch=0;outlineConnect=0;fillColor=#fa6800;strokeColor=#C73500;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bank;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="310" y="-226" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="SIoKPEtFllsg_iDvEtWE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-6" target="SIoKPEtFllsg_iDvEtWE-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SIoKPEtFllsg_iDvEtWE-6" value="&lt;font color=&quot;#6c8ebf&quot;&gt;&lt;b&gt;&lt;i&gt;user&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#6C8EBF;rotation=0;strokeColor=#000000;fontColor=#ffffff;labelPosition=center;spacingBottom=-6;" vertex="1" parent="1">
-          <mxGeometry x="184" y="-199.56" width="20.5" height="25.11" as="geometry" />
-        </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
-          <mxGeometry x="493" y="-611" width="90" height="90" as="geometry" />
+          <mxGeometry x="493" y="-761" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-9" value="" style="sketch=0;outlineConnect=0;fillColor=#fa6800;strokeColor=#C73500;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bank;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="499" y="-517" width="78" height="78" as="geometry" />
+          <mxGeometry x="499" y="-667" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-10" value="" style="sketch=0;outlineConnect=0;fillColor=#6d8764;strokeColor=#3A5431;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bank;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="589" y="-517" width="78" height="78" as="geometry" />
+          <mxGeometry x="589" y="-667" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-11" value="" style="sketch=0;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bank;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="499" y="-430" width="78" height="78" as="geometry" />
+          <mxGeometry x="499" y="-580" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-12" value="" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bank;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="591" y="-430" width="78" height="78" as="geometry" />
+          <mxGeometry x="591" y="-580" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="SIoKPEtFllsg_iDvEtWE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" target="SIoKPEtFllsg_iDvEtWE-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="-177" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="205" y="-177" />
-              <mxPoint x="257" y="-177" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.aws_backup_vault_lock;" vertex="1" parent="1">
+          <mxGeometry x="28" y="-495" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_vault;" vertex="1" parent="1">
+          <mxGeometry x="129" y="-567" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-17" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.archive;" vertex="1" parent="1">
+          <mxGeometry x="134" y="-483" width="63" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="38" y="-567" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vault;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="36" y="-394" width="78" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-20" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.data_exchange;" vertex="1" parent="1">
+          <mxGeometry x="36" y="-717" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_exchange_for_apis;" vertex="1" parent="1">
+          <mxGeometry x="139" y="-711" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/exchange-alt-128.png" vertex="1" parent="1">
+          <mxGeometry x="243" y="-656" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-23" value="&lt;font color=&quot;#6c8ebf&quot;&gt;&lt;b&gt;&lt;i&gt;wealth&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#6c8ebf&quot;&gt;&lt;b&gt;&lt;i&gt;manager&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#6C8EBF;rotation=0;strokeColor=#000000;fontColor=#ffffff;labelPosition=center;spacingBottom=-6;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-325" width="20.5" height="25.11" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-24" value="&lt;font color=&quot;#6c8ebf&quot;&gt;&lt;b&gt;&lt;i&gt;client&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#6C8EBF;rotation=0;strokeColor=#000000;fontColor=#ffffff;labelPosition=center;spacingBottom=-6;" vertex="1" parent="1">
+          <mxGeometry x="291" y="-325" width="20.5" height="25.11" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.615;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-23" target="SIoKPEtFllsg_iDvEtWE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.39;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-24" target="SIoKPEtFllsg_iDvEtWE-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
