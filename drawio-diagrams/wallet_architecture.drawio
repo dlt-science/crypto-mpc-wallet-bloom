@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="6">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="1571" dy="1598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="1754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,6 +231,20 @@
             <mxPoint x="-6" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-8" target="SIoKPEtFllsg_iDvEtWE-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="174" y="-275" />
+              <mxPoint x="295" y="-275" />
+              <mxPoint x="295" y="-213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-55" value="listing fee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SIoKPEtFllsg_iDvEtWE-54">
+          <mxGeometry x="0.1458" y="1" relative="1" as="geometry">
+            <mxPoint x="-41" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" vertex="1" parent="1">
           <mxGeometry x="151.5" y="-338" width="45" height="45" as="geometry" />
         </mxCell>
@@ -336,6 +350,13 @@
         <mxCell id="SIoKPEtFllsg_iDvEtWE-45" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
           <mxGeometry x="159" y="-167.5" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-46" target="SIoKPEtFllsg_iDvEtWE-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-46" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFFFFF;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#0080F0;" vertex="1" parent="1">
           <mxGeometry x="250.5" y="-90" width="30" height="30" as="geometry" />
         </mxCell>
@@ -345,6 +366,43 @@
         <mxCell id="SIoKPEtFllsg_iDvEtWE-49" value="off ramp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SIoKPEtFllsg_iDvEtWE-47">
           <mxGeometry x="0.0836" relative="1" as="geometry">
             <mxPoint x="5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="154.5" y="-94.5" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.046;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-56" target="SIoKPEtFllsg_iDvEtWE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="-137" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="-137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.629;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-56" target="SIoKPEtFllsg_iDvEtWE-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="178" y="-137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.009;exitY=0.881;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-31" target="SIoKPEtFllsg_iDvEtWE-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="238" y="-138" />
+              <mxPoint x="192" y="-137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.176;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-56" target="SIoKPEtFllsg_iDvEtWE-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="193" y="-88" />
+              <mxPoint x="253" y="-88" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
