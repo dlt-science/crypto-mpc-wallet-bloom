@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0" pages="7">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="296" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="485" dy="1444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,8 +63,24 @@
         <mxCell id="SIoKPEtFllsg_iDvEtWE-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=#994C00;" parent="1" vertex="1">
           <mxGeometry x="482" y="-94.5" width="39" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="jSkQstID_xtaI9SZuhtN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-35" target="SIoKPEtFllsg_iDvEtWE-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="-207" />
+              <mxPoint x="411" y="-207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSkQstID_xtaI9SZuhtN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.013;exitY=0.614;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-35" target="SIoKPEtFllsg_iDvEtWE-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="-202" />
+              <mxPoint x="408" y="-202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=#994C00;" parent="1" vertex="1">
-          <mxGeometry x="482" y="-228" width="39" height="39" as="geometry" />
+          <mxGeometry x="482" y="-226" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.029;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SIoKPEtFllsg_iDvEtWE-24" target="SIoKPEtFllsg_iDvEtWE-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
