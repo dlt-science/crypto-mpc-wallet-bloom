@@ -441,7 +441,7 @@
             <mxPoint x="1253" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzXZe1mTycIwX36GXBCC-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Interactive&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Signing&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Process&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="vzXZe1mTycIwX36GXBCC-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Interactive&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Signing&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Process&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="1277" y="569" width="103" height="73" as="geometry" />
         </mxCell>
         <mxCell id="vzXZe1mTycIwX36GXBCC-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Frontend&lt;/b&gt;&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;" vertex="1" parent="1">
