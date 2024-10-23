@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="architecture" id="YXDQPZ1RAeT50rto0kDh">
-    <mxGraphModel dx="1169" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -342,21 +342,19 @@
             <mxPoint x="-122" y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6geWVlJQv_1Q-CfxisJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.004;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="z6geWVlJQv_1Q-CfxisJ-8" edge="1" source="vzXZe1mTycIwX36GXBCC-6">
+        <mxCell id="z6geWVlJQv_1Q-CfxisJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.004;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="z6geWVlJQv_1Q-CfxisJ-8" edge="1" source="vzXZe1mTycIwX36GXBCC-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1260" y="566" as="sourcePoint" />
-            <mxPoint x="1093.05" y="464.41999999999996" as="targetPoint" />
+            <mxPoint x="1054" y="441" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1261" y="605" />
-              <mxPoint x="1261" y="497" />
-              <mxPoint x="1262" y="497" />
-              <mxPoint x="1262" y="450" />
+              <mxPoint x="1261" y="606" />
+              <mxPoint x="1261" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6geWVlJQv_1Q-CfxisJ-41" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Signed Transaction&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="z6geWVlJQv_1Q-CfxisJ-40" vertex="1" connectable="0">
+        <mxCell id="z6geWVlJQv_1Q-CfxisJ-41" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Signed Transaction&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" parent="z6geWVlJQv_1Q-CfxisJ-40" vertex="1" connectable="0">
           <mxGeometry x="0.1948" relative="1" as="geometry">
-            <mxPoint x="-30" y="-13" as="offset" />
+            <mxPoint x="-30" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z6geWVlJQv_1Q-CfxisJ-58" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Blockchain&lt;/b&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeWidth=2;" parent="1" vertex="1">
@@ -384,7 +382,7 @@
           <mxGeometry x="734.5" y="770" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z6geWVlJQv_1Q-CfxisJ-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ripple&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="908" y="820" width="80" height="40" as="geometry" />
+          <mxGeometry x="730" y="819" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z6geWVlJQv_1Q-CfxisJ-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;«Component»&lt;br&gt;&lt;b&gt;Decentralised &lt;br&gt;Exchange&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="834.5" y="762.5" width="125" height="147.5" as="geometry" />
