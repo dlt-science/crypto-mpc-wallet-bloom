@@ -62,7 +62,7 @@
             <mxPoint x="20" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIoKPEtFllsg_iDvEtWE-34" value="yield&lt;div&gt;aggregator&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=#994C00;" parent="1" vertex="1">
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-34" value="yield&lt;div&gt;aggregator&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=#994C00;spacingTop=-7;" parent="1" vertex="1">
           <mxGeometry x="526.5" y="-165.5" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#B85450;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-35" target="SIoKPEtFllsg_iDvEtWE-2">
@@ -225,6 +225,9 @@
               <mxPoint x="250" y="-196" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mvOBAzUROKTbR41QECz8-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;protocols&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;for loans&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515.5" y="-195" width="67" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
