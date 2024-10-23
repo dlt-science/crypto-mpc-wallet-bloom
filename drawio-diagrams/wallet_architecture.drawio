@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0" pages="7">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="577" dy="1502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="408" dy="1405" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-50" value="on ramp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="SIoKPEtFllsg_iDvEtWE-48" vertex="1" connectable="0">
           <mxGeometry x="0.1826" relative="1" as="geometry">
-            <mxPoint x="-6" y="7" as="offset" />
+            <mxPoint x="-8" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#97D077;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="SIoKPEtFllsg_iDvEtWE-8" target="SIoKPEtFllsg_iDvEtWE-2" edge="1">
