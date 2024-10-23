@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0" pages="7">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="408" dy="1405" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="1589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
             <mxPoint x="20" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIoKPEtFllsg_iDvEtWE-34" value="yield&lt;div style=&quot;font-size: 10px;&quot;&gt;aggregator&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=#994C00;spacingTop=-7;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-34" value="yield&lt;div style=&quot;font-size: 10px;&quot;&gt;aggregator&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=#994C00;spacingTop=-6;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="526.5" y="-165.5" width="34.5" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#B85450;" edge="1" parent="1" source="SIoKPEtFllsg_iDvEtWE-35" target="SIoKPEtFllsg_iDvEtWE-2">
