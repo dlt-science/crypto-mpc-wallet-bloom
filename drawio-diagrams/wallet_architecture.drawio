@@ -948,7 +948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AcdXR2CsAtGq3Bo9usu6" name="on-ramp">
-    <mxGraphModel dx="2858" dy="1640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1513" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1079,14 +1079,14 @@
             <mxPoint x="913" y="474" as="sourcePoint" />
             <mxPoint x="913.96" y="567.836" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="884" y="474" />
-              <mxPoint x="884" y="568" />
+              <mxPoint x="861" y="474" />
+              <mxPoint x="861" y="568" />
               <mxPoint x="893" y="568" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fIY4DsEoCyHi3_jx9CyO-36" value="Generate&lt;div&gt;Partial&lt;/div&gt;&lt;div&gt;Signature&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="798" y="504" width="106" height="30" as="geometry" />
+          <mxGeometry x="777" y="504" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIY4DsEoCyHi3_jx9CyO-37" value="Message not Signed by Client&lt;div&gt;or System&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="193" y="926" width="107" height="52" as="geometry" />
