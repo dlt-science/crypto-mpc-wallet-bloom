@@ -948,7 +948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AcdXR2CsAtGq3Bo9usu6" name="on-ramp">
-    <mxGraphModel dx="1715" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="1640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1172,7 +1172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fIY4DsEoCyHi3_jx9CyO-71" value="Transaction Sent&lt;div&gt;to Client&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
-          <mxGeometry x="187" y="538" width="121" height="54" as="geometry" />
+          <mxGeometry x="187" y="538" width="121" height="44" as="geometry" />
         </mxCell>
         <mxCell id="fIY4DsEoCyHi3_jx9CyO-72" value="Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="543" y="125" width="69" height="26" as="geometry" />
