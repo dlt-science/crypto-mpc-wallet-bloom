@@ -623,7 +623,7 @@
           <mxGeometry x="416.66999999999996" y="341" width="158.33" height="23" as="geometry" />
         </mxCell>
         <mxCell id="sOdV_t8VMV3BdL3rN_gy-4" value="&lt;font color=&quot;#6c8ebf&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Receives&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: wrap;&quot;&gt;Distributed&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: wrap;&quot;&gt;Shard&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="246" y="289" width="163" height="26" as="geometry" />
+          <mxGeometry x="246" y="296" width="163" height="26" as="geometry" />
         </mxCell>
         <mxCell id="sOdV_t8VMV3BdL3rN_gy-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=3;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.938;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#E6A365;" edge="1" parent="1" source="g6Fnl_1X3McqfkRK6mG2-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -638,7 +638,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sOdV_t8VMV3BdL3rN_gy-10" value="&lt;font color=&quot;#6c8ebf&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Receives&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: wrap;&quot;&gt;Distributed&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: wrap;&quot;&gt;Shard&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="249" y="423" width="163" height="26" as="geometry" />
+          <mxGeometry x="249" y="421" width="163" height="26" as="geometry" />
         </mxCell>
         <mxCell id="POlVVjlNU5XaI5uyBXdq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;dashed=1;fillColor=#ffcc99;strokeColor=#E6A365;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
