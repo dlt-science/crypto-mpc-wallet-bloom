@@ -941,7 +941,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="703" dy="1534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="1486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1178,7 +1178,7 @@
           <mxGeometry x="321" y="-342" width="51" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fgCwBOKn9kz22RC9SSqe-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="420.34" y="-413.32" width="8.63" height="239.8" as="geometry" />
+          <mxGeometry x="419" y="-414.66" width="8.63" height="242.48" as="geometry" />
         </mxCell>
         <mxCell id="mvOBAzUROKTbR41QECz8-4" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Wallet&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="324.5" y="-199.52" width="53" height="26" as="geometry" />
