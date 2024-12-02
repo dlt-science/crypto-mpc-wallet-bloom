@@ -270,7 +270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2BtJipCjrK6v7oBG_7OC" name="threat-joint">
-    <mxGraphModel dx="908" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,7 +523,7 @@
         <mxCell id="-UMed0_T1BwD4YownkUH-57" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;Custody&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;System&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="586.72" y="572.53" width="61" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-UMed0_T1BwD4YownkUH-58" value="&lt;span style=&quot;color: rgb(204, 204, 0);&quot;&gt;Client&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="-UMed0_T1BwD4YownkUH-58" value="&lt;span style=&quot;color: rgb(204, 204, 0);&quot;&gt;Client&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="465.5" y="723" width="49" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-UMed0_T1BwD4YownkUH-59" value="&lt;span style=&quot;color: rgb(0, 153, 0);&quot;&gt;Wealth&amp;nbsp;Manager&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
