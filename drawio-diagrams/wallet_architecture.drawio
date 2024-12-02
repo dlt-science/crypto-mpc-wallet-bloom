@@ -263,12 +263,6 @@
         <mxCell id="6T-0StC6fNEwUAvkDWsv-60" value="Helper&lt;div&gt;Network&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="376.99999999999994" y="748.44" width="62" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="AP0COfURFTjdDY_DAVXY-10" value="" style="endArrow=none;html=1;strokeColor=#6C8EBF;bendable=1;rounded=1;endFill=0;endSize=4;strokeWidth=1.5;startSize=4;part=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="38.001352799538815" y="869.0027272727273" as="sourcePoint" />
-            <mxPoint x="100.45120075513519" y="869.0027272727273" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6T-0StC6fNEwUAvkDWsv-4" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#F8CECC;strokeColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="288" y="551.52" width="28" height="40" as="geometry" />
         </mxCell>
