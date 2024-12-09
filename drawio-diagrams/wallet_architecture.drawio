@@ -619,7 +619,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="1146" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="564" dy="307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -921,7 +921,7 @@
           <mxGeometry x="424" y="254.99999999999997" width="157" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8I4f6WBsxNdTtG8tdCHK-4" value="&lt;span style=&quot;color: rgb(230, 163, 101); text-wrap-mode: wrap;&quot;&gt;Generate&lt;/span&gt;&lt;span style=&quot;color: rgb(230, 163, 101); text-wrap-mode: wrap;&quot;&gt;&amp;nbsp;partial signature&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-10;" vertex="1" parent="1">
-          <mxGeometry x="227.93" y="364.5" width="157" height="26" as="geometry" />
+          <mxGeometry x="249.5" y="333.02" width="157" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8I4f6WBsxNdTtG8tdCHK-5" value="&lt;b style=&quot;color: rgb(108, 142, 191);&quot;&gt;Generate&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(108, 142, 191);&quot;&gt;Key Shard&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="257.93" y="284" width="97" height="47" as="geometry" />
