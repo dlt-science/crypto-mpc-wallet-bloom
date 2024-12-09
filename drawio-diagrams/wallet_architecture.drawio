@@ -339,7 +339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AcdXR2CsAtGq3Bo9usu6" name="txn">
-    <mxGraphModel dx="548" dy="284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -530,11 +530,11 @@
             <mxPoint x="246" y="896.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fIY4DsEoCyHi3_jx9CyO-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Transaction Failed&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="fIY4DsEoCyHi3_jx9CyO-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Update&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Status&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="264" y="900" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fIY4DsEoCyHi3_jx9CyO-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Transaction Complete&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="255" y="994.5" width="124" height="30" as="geometry" />
+        <mxCell id="fIY4DsEoCyHi3_jx9CyO-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Update&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Status&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="255" y="1032" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIY4DsEoCyHi3_jx9CyO-60" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Broadcast Transaction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="528" y="768" width="124" height="30" as="geometry" />
@@ -596,6 +596,9 @@
         </mxCell>
         <mxCell id="n6AAMIcHz_xH0lDUkVrO-4" value="" style="shape=module;jettyWidth=11;jettyHeight=2;" vertex="1" parent="1">
           <mxGeometry x="599" y="119" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="0xb7YOSzybFBZ7N3UZHu-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Transaction&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Complete&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
+          <mxGeometry x="148" y="1006" width="90" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
