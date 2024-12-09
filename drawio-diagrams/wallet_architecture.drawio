@@ -619,7 +619,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="911" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -870,15 +870,6 @@
         <mxCell id="7gHVWKFedMrqXpbQgBem-35" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;b&gt;Share&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;b&gt;secrets&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="342" y="488" width="60" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="HIw0cwAPKdqMGA2gbwD3-11" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="297.5" y="187.99999999999994" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="HIw0cwAPKdqMGA2gbwD3-45" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="283" y="527.51" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="HIw0cwAPKdqMGA2gbwD3-46" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="167.5" y="469" width="66" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="7gHVWKFedMrqXpbQgBem-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;arcSize=16;perimeterSpacing=0;imageHeight=24;absoluteArcSize=1;points=[];connectable=0;container=0;align=left;verticalAlign=top;fontSize=12;fontStyle=1;spacingTop=5;spacingLeft=8;strokeColor=#556B82;" parent="1" vertex="1">
           <mxGeometry x="481" y="382" width="176" height="57" as="geometry" />
         </mxCell>
@@ -965,45 +956,6 @@
         </mxCell>
         <mxCell id="yqMACQXYxOVCk_esiYe1-2" value="&lt;span style=&quot;color: rgb(230, 163, 101); text-wrap-mode: wrap;&quot;&gt;&lt;b&gt;Broadcast transaction&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="451" y="337" width="145" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-1" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;Encrypted shard&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="271" y="208.50999999999993" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-2" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;Encrypted shard&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="297" y="174.48999999999995" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-3" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="158.96" y="209.39999999999995" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-4" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="283" y="222.99999999999994" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-5" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="296" y="248.99999999999994" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-6" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="281.5" y="467.48999999999995" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-7" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;Encrypted shard&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="281" y="453.97999999999996" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-8" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="259.5" y="501.50999999999993" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-9" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;Encrypted shard&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="259" y="487.99999999999994" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-10" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="184.5" y="541.02" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-11" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;Encrypted&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;shard&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="180" y="514" width="63" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-12" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;KEK share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="192" y="262.50999999999993" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ycSbDii_G6vNrT3kz-GR-13" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;Encrypted shard&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="191.5" y="248.99999999999994" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zyn10ZAJg0yIjZhga-Mi-1" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;Share&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;Secrets&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="355" y="209.39999999999998" width="59" height="41" as="geometry" />
