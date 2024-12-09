@@ -583,12 +583,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Eh6E-9xQj1bLmP6ZBRBC" name="threat-ind">
-    <mxGraphModel dx="1619" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="665" dy="345" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6T-0StC6fNEwUAvkDWsv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=0.5;" parent="1" vertex="1">
-          <mxGeometry x="172" y="529.46" width="404" height="363" as="geometry" />
+          <mxGeometry x="172" y="529.46" width="404" height="370.54" as="geometry" />
         </mxCell>
         <mxCell id="6T-0StC6fNEwUAvkDWsv-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#6C8EBF;" parent="1" source="6T-0StC6fNEwUAvkDWsv-3" target="6T-0StC6fNEwUAvkDWsv-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -838,7 +838,7 @@
         <mxCell id="6T-0StC6fNEwUAvkDWsv-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/4422/4422090.png;" parent="1" vertex="1">
           <mxGeometry x="525" y="834.4600000000003" width="25.54" height="25.54" as="geometry" />
         </mxCell>
-        <mxCell id="6T-0StC6fNEwUAvkDWsv-59" value="In all scenarios, system is not compromised." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="6T-0StC6fNEwUAvkDWsv-59" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;In all scenarios, system is not compromised.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="232" y="700.46" width="281" height="17.74" as="geometry" />
         </mxCell>
         <mxCell id="6T-0StC6fNEwUAvkDWsv-60" value="Helper&lt;div&gt;Network&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -848,24 +848,24 @@
           <mxGeometry x="288" y="551.52" width="28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AP0COfURFTjdDY_DAVXY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;arcSize=16;perimeterSpacing=0;imageHeight=24;absoluteArcSize=1;points=[];connectable=0;container=0;align=left;verticalAlign=top;fontSize=12;fontStyle=1;spacingTop=5;spacingLeft=8;strokeColor=#556B82;" parent="1" vertex="1">
-          <mxGeometry x="172" y="894.46" width="404" height="22.54" as="geometry" />
+          <mxGeometry x="172" y="879" width="198" height="21.54" as="geometry" />
         </mxCell>
         <mxCell id="AP0COfURFTjdDY_DAVXY-11" value="Compromised Party" style="part=1;fillColor=none;strokeColor=none;align=left;fontSize=10;fontColor=#556B82;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="213.53241766228655" y="899.8006818181818" width="86.46902024621022" height="10.909090909090908" as="geometry" />
+          <mxGeometry x="213.53241766228655" y="883.3406818181818" width="86.46902024621022" height="10.909090909090908" as="geometry" />
         </mxCell>
         <mxCell id="AP0COfURFTjdDY_DAVXY-13" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=90;dx=415;dy=184;fillColor=#F8CECC;strokeWidth=0;strokeColor=#B85450;" parent="1" vertex="1">
-          <mxGeometry x="194.46999999999997" y="900.07" width="11.79" height="11.59" as="geometry" />
+          <mxGeometry x="194.46999999999997" y="883.61" width="11.79" height="11.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2BtJipCjrK6v7oBG_7OC" name="threat-joint">
-    <mxGraphModel dx="908" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1284" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-UMed0_T1BwD4YownkUH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=0.5;" parent="1" vertex="1">
-          <mxGeometry x="360" y="536.49" width="406" height="362.51" as="geometry" />
+          <mxGeometry x="360" y="536.49" width="406" height="370.51" as="geometry" />
         </mxCell>
         <mxCell id="-UMed0_T1BwD4YownkUH-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#6C8EBF;" parent="1" source="-UMed0_T1BwD4YownkUH-3" target="-UMed0_T1BwD4YownkUH-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1024,7 +1024,7 @@
             <mxPoint x="418.55999999999983" y="859.2619047619046" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UMed0_T1BwD4YownkUH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#B85450;exitX=-0.027;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="-UMed0_T1BwD4YownkUH-29" edge="1" source="mGoct6CoNGyFrnLJCn8p-2">
+        <mxCell id="-UMed0_T1BwD4YownkUH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#B85450;exitX=-0.027;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="mGoct6CoNGyFrnLJCn8p-2" target="-UMed0_T1BwD4YownkUH-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="702" y="859" as="sourcePoint" />
             <Array as="points">
@@ -1032,7 +1032,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UMed0_T1BwD4YownkUH-39" value="" style="endArrow=classic;html=1;strokeWidth=2;rounded=0;strokeColor=#B85450;entryX=1.041;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;exitX=-0.036;exitY=0.535;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="-UMed0_T1BwD4YownkUH-27" edge="1" source="mGoct6CoNGyFrnLJCn8p-2">
+        <mxCell id="-UMed0_T1BwD4YownkUH-39" value="" style="endArrow=classic;html=1;strokeWidth=2;rounded=0;strokeColor=#B85450;entryX=1.041;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;exitX=-0.036;exitY=0.535;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="mGoct6CoNGyFrnLJCn8p-2" target="-UMed0_T1BwD4YownkUH-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="701.6580000000001" y="856.9026399999998" as="sourcePoint" />
             <mxPoint x="711.5" y="760.49" as="targetPoint" />
@@ -1147,29 +1147,23 @@
         <mxCell id="mGoct6CoNGyFrnLJCn8p-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/4422/4422090.png;" parent="1" vertex="1">
           <mxGeometry x="584.73" y="674.0000000000002" width="25.54" height="25.54" as="geometry" />
         </mxCell>
-        <mxCell id="DmxJzDozrFMVRGK7q-yP-61" value="If compromised helpers below&lt;div&gt;threshold, s&lt;span style=&quot;background-color: initial;&quot;&gt;ystem not compromised&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="DmxJzDozrFMVRGK7q-yP-61" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;If compromised helpers below&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;threshold, s&lt;span style=&quot;background-color: initial;&quot;&gt;ystem not compromised&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="564" y="867.48" width="195" height="28.74" as="geometry" />
         </mxCell>
-        <mxCell id="DmxJzDozrFMVRGK7q-yP-63" value="In scenario 1-3, system compromised, but policy rules limit effect." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="DmxJzDozrFMVRGK7q-yP-63" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;In scenario 1-3, system compromised, but policy rules limit effect.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="374" y="709.26" width="379" height="17.74" as="geometry" />
         </mxCell>
         <mxCell id="-UMed0_T1BwD4YownkUH-21" value="Helper&lt;div&gt;Network&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="552" y="789.48" width="62" height="41" as="geometry" />
         </mxCell>
         <mxCell id="4NL5sYF1PMA69WG4UAPx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;arcSize=16;perimeterSpacing=0;imageHeight=24;absoluteArcSize=1;points=[];connectable=0;container=0;align=left;verticalAlign=top;fontSize=12;fontStyle=1;spacingTop=5;spacingLeft=8;strokeColor=#556B82;" parent="1" vertex="1">
-          <mxGeometry x="359.5" y="901" width="406.5" height="22.54" as="geometry" />
+          <mxGeometry x="360" y="887" width="195.5" height="20.54" as="geometry" />
         </mxCell>
-        <mxCell id="4NL5sYF1PMA69WG4UAPx-2" value="Compromised Party" style="part=1;fillColor=none;strokeColor=none;align=left;fontSize=10;fontColor=#556B82;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="455.29241766228654" y="905.0006818181818" width="86.46902024621022" height="10.909090909090908" as="geometry" />
+        <mxCell id="PADjeBJ1mtgwwTps-VHB-1" value="Compromised Party" style="part=1;fillColor=none;strokeColor=none;align=left;fontSize=10;fontColor=#556B82;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="400.5624176622865" y="891.3406818181818" width="86.46902024621022" height="10.909090909090908" as="geometry" />
         </mxCell>
-        <mxCell id="4NL5sYF1PMA69WG4UAPx-3" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=90;dx=415;dy=184;fillColor=#F8CECC;dashed=1;strokeWidth=1;strokeColor=#B85450;" parent="1" vertex="1">
-          <mxGeometry x="436.23" y="905.27" width="11.79" height="11.59" as="geometry" />
-        </mxCell>
-        <mxCell id="4NL5sYF1PMA69WG4UAPx-4" value="Uncompromised Party" style="part=1;fillColor=none;strokeColor=none;align=left;fontSize=10;fontColor=#556B82;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="584.0624176622865" y="905.2706818181817" width="86.46902024621022" height="10.909090909090908" as="geometry" />
-        </mxCell>
-        <mxCell id="4NL5sYF1PMA69WG4UAPx-5" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=90;dx=415;dy=184;fillColor=#FFFFFF;dashed=1;strokeWidth=1;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="565" y="905.54" width="11.79" height="11.59" as="geometry" />
+        <mxCell id="PADjeBJ1mtgwwTps-VHB-2" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=90;dx=415;dy=184;fillColor=#F8CECC;strokeWidth=0;strokeColor=#B85450;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="891.61" width="11.79" height="11.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
