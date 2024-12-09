@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="10">
   <diagram name="architecture" id="YXDQPZ1RAeT50rto0kDh">
-    <mxGraphModel dx="1693" dy="879" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="810" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,8 +162,8 @@
             <mxPoint x="1435" y="739" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzXZe1mTycIwX36GXBCC-14" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Submit&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;ransaction&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1388" y="548" width="101" height="53" as="geometry" />
+        <mxCell id="vzXZe1mTycIwX36GXBCC-14" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Confirm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;ransaction&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1388" y="549" width="101" height="53" as="geometry" />
         </mxCell>
         <mxCell id="vzXZe1mTycIwX36GXBCC-15" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Submit&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;ransaction&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1236" y="601" width="101" height="53" as="geometry" />
@@ -221,7 +221,7 @@
         </mxCell>
         <mxCell id="dGaBovaNu0S-a6x01_Vl-14" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Send&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;ransaction&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="IuSsum0-i7fAW_861ZFE-2" vertex="1" connectable="0">
           <mxGeometry x="0.5935" relative="1" as="geometry">
-            <mxPoint x="14" y="-12" as="offset" />
+            <mxPoint x="14" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IuSsum0-i7fAW_861ZFE-4" value="" style="shape=module;jettyWidth=11;jettyHeight=2;" parent="1" vertex="1">
@@ -306,9 +306,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nunlQFpbGqTLqPBBAain-1" value="&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 17px;&quot;&gt;Submit t&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;ransaction&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="as9JKppco9Qzx5a2w8OZ-1">
+        <mxCell id="nunlQFpbGqTLqPBBAain-1" value="&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 17px;&quot;&gt;Send&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 17px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;ransaction&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="as9JKppco9Qzx5a2w8OZ-1">
           <mxGeometry x="-0.017" y="1" relative="1" as="geometry">
-            <mxPoint x="-24" y="-17" as="offset" />
+            <mxPoint x="-13" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PlE35I5At4tBMtLbWAvQ-2" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Database&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;" vertex="1" parent="1">
@@ -336,6 +336,17 @@
           <mxGeometry x="847.9999999999995" y="449.99636363636375" as="geometry">
             <mxPoint x="-2" y="3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c994EsU8jdcqN2Tzy3M9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.822;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vzXZe1mTycIwX36GXBCC-8" target="z6geWVlJQv_1Q-CfxisJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1204" y="866" />
+              <mxPoint x="1204" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c994EsU8jdcqN2Tzy3M9-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Send&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;ransaction&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1122.5041178482613" y="474" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1025,7 +1036,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Eh6E-9xQj1bLmP6ZBRBC" name="threat-ind">
-    <mxGraphModel dx="690" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="931" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1311,7 +1322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2BtJipCjrK6v7oBG_7OC" name="threat-joint">
-    <mxGraphModel dx="908" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1284" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
