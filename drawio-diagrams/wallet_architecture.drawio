@@ -1990,7 +1990,7 @@
         <mxCell id="LzvnMqBErhcK8G8BqjuU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mXMUWZiblK6pFlpwHya-4" target="0mXMUWZiblK6pFlpwHya-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzvnMqBErhcK8G8BqjuU-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;verify&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LzvnMqBErhcK8G8BqjuU-1">
+        <mxCell id="LzvnMqBErhcK8G8BqjuU-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;verify shard&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LzvnMqBErhcK8G8BqjuU-1">
           <mxGeometry x="-0.1498" relative="1" as="geometry">
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
@@ -2008,7 +2008,7 @@
             <mxPoint x="-18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mXMUWZiblK6pFlpwHya-4" value="&lt;font size=&quot;1&quot; color=&quot;#67ab9f&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;key share&lt;/i&gt;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#CCCC00;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;rotation=0;container=0;spacing=0;fontSize=10;spacingTop=-6;spacingLeft=-5;" vertex="1" parent="1">
+        <mxCell id="0mXMUWZiblK6pFlpwHya-4" value="&lt;font size=&quot;1&quot; color=&quot;#67ab9f&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;key shard&lt;/i&gt;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#CCCC00;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;rotation=0;container=0;spacing=0;fontSize=10;spacingTop=-6;spacingLeft=-5;" vertex="1" parent="1">
           <mxGeometry x="-513.9601339285714" y="855.9983705357142" width="12.72" height="20.66" as="geometry" />
         </mxCell>
         <mxCell id="LzvnMqBErhcK8G8BqjuU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mXMUWZiblK6pFlpwHya-5" target="0mXMUWZiblK6pFlpwHya-6">
@@ -2019,7 +2019,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mXMUWZiblK6pFlpwHya-5" value="&lt;i style=&quot;color: rgb(103, 171, 159); font-size: 12px;&quot;&gt;key share&lt;/i&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#0000FF;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;rotation=0;container=0;spacing=0;fontSize=10;spacingTop=-6;spacingLeft=-5;" vertex="1" parent="1">
+        <mxCell id="0mXMUWZiblK6pFlpwHya-5" value="&lt;i style=&quot;color: rgb(103, 171, 159); font-size: 12px;&quot;&gt;key shard&lt;/i&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#0000FF;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;rotation=0;container=0;spacing=0;fontSize=10;spacingTop=-6;spacingLeft=-5;" vertex="1" parent="1">
           <mxGeometry x="-415.0001339285714" y="855.9983705357142" width="12.72" height="20.66" as="geometry" />
         </mxCell>
         <mxCell id="LzvnMqBErhcK8G8BqjuU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0mXMUWZiblK6pFlpwHya-6" target="0mXMUWZiblK6pFlpwHya-5">
@@ -2035,7 +2035,7 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mXMUWZiblK6pFlpwHya-6" value="&lt;font size=&quot;1&quot; color=&quot;#67ab9f&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;key share&lt;/i&gt;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#00CC00;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;rotation=0;container=0;spacing=0;fontSize=10;spacingTop=-6;spacingLeft=-5;" vertex="1" parent="1">
+        <mxCell id="0mXMUWZiblK6pFlpwHya-6" value="&lt;font size=&quot;1&quot; color=&quot;#67ab9f&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;key shard&lt;/i&gt;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#00CC00;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;rotation=0;container=0;spacing=0;fontSize=10;spacingTop=-6;spacingLeft=-5;" vertex="1" parent="1">
           <mxGeometry x="-316.5001339285714" y="855.9983705357142" width="12.72" height="20.66" as="geometry" />
         </mxCell>
         <mxCell id="0mXMUWZiblK6pFlpwHya-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;startSize=3;endArrow=classic;endFill=1;" edge="1" parent="1" target="0mXMUWZiblK6pFlpwHya-12">
@@ -2070,7 +2070,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzvnMqBErhcK8G8BqjuU-11" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;verify&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LzvnMqBErhcK8G8BqjuU-3">
+        <mxCell id="LzvnMqBErhcK8G8BqjuU-11" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;verify shard&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LzvnMqBErhcK8G8BqjuU-3">
           <mxGeometry x="-0.2486" relative="1" as="geometry">
             <mxPoint x="5" y="-2" as="offset" />
           </mxGeometry>
