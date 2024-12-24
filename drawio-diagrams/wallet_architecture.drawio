@@ -1444,7 +1444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="1422" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="846" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1452,7 +1452,7 @@
           <mxGeometry x="219.13" y="602" width="288" height="214" as="geometry" />
         </mxCell>
         <mxCell id="j44DRHMr1dWR5Fks2X1h-2" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#82b366&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;Key Recovery&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;rotation=0;container=0;align=right;verticalAlign=bottom;spacingBottom=0;spacingRight=0;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="461.13" y="707" width="115.75" height="82" as="geometry" />
+          <mxGeometry x="461.13" y="707" width="115.75" height="79" as="geometry" />
         </mxCell>
         <mxCell id="j44DRHMr1dWR5Fks2X1h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j44DRHMr1dWR5Fks2X1h-4" target="j44DRHMr1dWR5Fks2X1h-41">
           <mxGeometry relative="1" as="geometry">
@@ -1970,7 +1970,7 @@
         <mxCell id="j44DRHMr1dWR5Fks2X1h-94" value="" style="shape=module;jettyWidth=12;jettyHeight=2;strokeColor=#000000;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="558.92" y="906.1700000000001" width="11.27" height="7.89" as="geometry" />
         </mxCell>
-        <mxCell id="j44DRHMr1dWR5Fks2X1h-95" value="&lt;font style=&quot;line-height: 40%;&quot; size=&quot;1&quot;&gt;Blockchain&lt;/font&gt;&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;font style=&quot;line-height: 40%;&quot; size=&quot;1&quot;&gt;Gateway&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="j44DRHMr1dWR5Fks2X1h-95" value="&lt;font style=&quot;line-height: 40%; font-size: 9px;&quot;&gt;Blockchain&lt;/font&gt;&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;font style=&quot;line-height: 40%; font-size: 9px;&quot;&gt;Gateway&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="515.65" y="919.8299999999999" width="51.27" height="0.93" as="geometry" />
         </mxCell>
         <mxCell id="j44DRHMr1dWR5Fks2X1h-97" value="&lt;i style=&quot;background-color: initial; color: rgb(103, 171, 159);&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;client&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
