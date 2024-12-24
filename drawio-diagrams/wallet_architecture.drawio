@@ -902,7 +902,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EZnzLBzZkDfw75Mw1mWf" name="tnx_sign">
-    <mxGraphModel dx="1907" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1286" dy="265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,12 +986,13 @@
             <mxPoint x="15" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Io5AWkIiQt_qoxo4en2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.325;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.613;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1Io5AWkIiQt_qoxo4en2-17" target="1Io5AWkIiQt_qoxo4en2-16">
+        <mxCell id="1Io5AWkIiQt_qoxo4en2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.522;exitY=0.007;exitDx=0;exitDy=0;entryX=0.503;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="1Io5AWkIiQt_qoxo4en2-17" target="1Io5AWkIiQt_qoxo4en2-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-367.91" y="471" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-570.91" y="453" />
-              <mxPoint x="-363.91" y="453" />
+              <mxPoint x="-567" y="453" />
+              <mxPoint x="-366" y="453" />
+              <mxPoint x="-366" y="469" />
             </Array>
           </mxGeometry>
         </mxCell>
