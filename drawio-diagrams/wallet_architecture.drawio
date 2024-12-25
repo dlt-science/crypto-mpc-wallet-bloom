@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="13">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="935" dy="1678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="494" dy="1438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,16 +100,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-56" value="&lt;font color=&quot;#67ab9f&quot;&gt;&lt;i&gt;Decentralised&lt;/i&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;i&gt;Exchange&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=none;spacingTop=-5;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="151" y="-180.5" width="32.5" height="32.5" as="geometry" />
+          <mxGeometry x="160" y="-180.5" width="32.5" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="SIoKPEtFllsg_iDvEtWE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.987;entryY=0.232;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.013;exitY=0.794;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="drD9BbOAFERahJ8ECZt4-2" target="SIoKPEtFllsg_iDvEtWE-56" edge="1">
+        <mxCell id="SIoKPEtFllsg_iDvEtWE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;exitX=-0.013;exitY=0.794;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="drD9BbOAFERahJ8ECZt4-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="252" y="-172" />
               <mxPoint x="252" y="-172" />
             </Array>
             <mxPoint x="310.00088567924786" y="-157.99999999999977" as="sourcePoint" />
-            <mxPoint x="204" y="-156" as="targetPoint" />
+            <mxPoint x="187" y="-172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-2" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;pays&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;transaction fee&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="SIoKPEtFllsg_iDvEtWE-63" vertex="1" connectable="0">
