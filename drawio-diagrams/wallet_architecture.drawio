@@ -1224,7 +1224,7 @@
         </mxCell>
         <mxCell id="1Io5AWkIiQt_qoxo4en2-66" value="&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 8px;&quot;&gt;verify&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1Io5AWkIiQt_qoxo4en2-65" vertex="1" connectable="0">
           <mxGeometry x="-0.18" relative="1" as="geometry">
-            <mxPoint x="-5" y="-8" as="offset" />
+            <mxPoint x="-6" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Io5AWkIiQt_qoxo4en2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Io5AWkIiQt_qoxo4en2-75" edge="1">
