@@ -306,7 +306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AcdXR2CsAtGq3Bo9usu6" name="txn">
-    <mxGraphModel dx="395" dy="215" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1074" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -915,7 +915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="1510" dy="372" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1654" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1286,7 +1286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-65" value="&lt;font style=&quot;line-height: 30%; font-size: 9px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;span style=&quot;line-height: 30%;&quot;&gt;&lt;i style=&quot;&quot;&gt;Helper N&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;i style=&quot;font-size: 9px; color: rgb(103, 171, 159); background-color: initial;&quot;&gt;etwork&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-332.91" y="582.66" width="80" height="26" as="geometry" />
+          <mxGeometry x="-332.91" y="584.66" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-66" value="&lt;font style=&quot;line-height: 40%;&quot; color=&quot;#e6a365&quot;&gt;&lt;span style=&quot;font-size: 8px; line-height: 40%;&quot;&gt;split&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 8px; color: rgb(230, 163, 101); background-color: initial;&quot;&gt;shard&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="-327.9099999999998" y="561.0013868613138" as="geometry" />
@@ -1375,13 +1375,13 @@
           <mxGeometry x="1152" y="700" width="16" height="12" as="geometry" />
         </mxCell>
         <mxCell id="wkrsg9aZzwrbgzblhl2U-3" value="" style="html=1;align=center;verticalAlign=middle;dashed=0;rotation=-90;strokeWidth=1;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-306.26" y="728" width="23.81" height="45.54" as="geometry" />
+          <mxGeometry x="-305.03" y="726.77" width="23.81" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wkrsg9aZzwrbgzblhl2U-4" value="" style="shape=module;jettyWidth=12;jettyHeight=2;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-283.32000000000005" y="739.1700000000001" width="11.27" height="7.89" as="geometry" />
+          <mxGeometry x="-280.32000000000005" y="739.1700000000001" width="11.27" height="7.89" as="geometry" />
         </mxCell>
         <mxCell id="wkrsg9aZzwrbgzblhl2U-5" value="&lt;font color=&quot;#00cccc&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;Gateway&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-319.59000000000003" y="751.8299999999999" width="51.27" height="0.93" as="geometry" />
+          <mxGeometry x="-314" y="751.83" width="43" height="0.93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
