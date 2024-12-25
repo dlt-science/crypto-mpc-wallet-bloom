@@ -915,7 +915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="1473" dy="352" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1510" dy="372" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1026,7 +1026,7 @@
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-18" value="" style="html=1;align=center;verticalAlign=middle;dashed=0;rotation=-90;strokeWidth=1;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-479.29" y="457.46" width="24.8" height="53.53" as="geometry" />
         </mxCell>
-        <mxCell id="upl1Wif3RzG9tkNlCkJ6-19" value="" style="shape=module;jettyWidth=12;jettyHeight=2;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="upl1Wif3RzG9tkNlCkJ6-19" value="" style="shape=module;jettyWidth=9;jettyHeight=2;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-451.91" y="472.11" width="11.27" height="7.89" as="geometry" />
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" target="upl1Wif3RzG9tkNlCkJ6-16" edge="1">
@@ -1377,7 +1377,7 @@
         <mxCell id="wkrsg9aZzwrbgzblhl2U-3" value="" style="html=1;align=center;verticalAlign=middle;dashed=0;rotation=-90;strokeWidth=1;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-305.03" y="726.77" width="23.81" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="wkrsg9aZzwrbgzblhl2U-4" value="" style="shape=module;jettyWidth=12;jettyHeight=2;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="wkrsg9aZzwrbgzblhl2U-4" value="" style="shape=module;jettyWidth=8;jettyHeight=2;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-280.32000000000005" y="739.1700000000001" width="11.27" height="7.89" as="geometry" />
         </mxCell>
         <mxCell id="wkrsg9aZzwrbgzblhl2U-5" value="&lt;font color=&quot;#00cccc&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;Gateway&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
