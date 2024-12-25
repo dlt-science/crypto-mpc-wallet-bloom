@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="13">
   <diagram id="QcLsKUMuKHz0nEROdZWj" name="revenue">
-    <mxGraphModel dx="364" dy="1379" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="1527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-38" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;pays&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(184, 84, 80); font-size: 9px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;management&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;or performance&lt;/b&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;&amp;nbsp;fee&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="jSkQstID_xtaI9SZuhtN-36" vertex="1" connectable="0">
           <mxGeometry x="0.2482" y="1" relative="1" as="geometry">
-            <mxPoint x="13" y="-14" as="offset" />
+            <mxPoint x="32" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-34" value="&lt;font color=&quot;#67ab9f&quot;&gt;&lt;i&gt;yield&lt;/i&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;i&gt;aggregator&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Survey-128.png;imageBorder=none;spacingTop=-6;fontSize=10;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-2" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;pays&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;transaction fee&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="SIoKPEtFllsg_iDvEtWE-63" vertex="1" connectable="0">
           <mxGeometry x="-0.308" relative="1" as="geometry">
-            <mxPoint x="-15" y="-7" as="offset" />
+            <mxPoint x="-34" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SIoKPEtFllsg_iDvEtWE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#B85450;entryX=0.03;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SIoKPEtFllsg_iDvEtWE-20" target="drD9BbOAFERahJ8ECZt4-2" edge="1">
@@ -129,7 +129,7 @@
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-3" value="&lt;font color=&quot;#b85450&quot;&gt;&lt;b&gt;pays&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;transaction fee&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="SIoKPEtFllsg_iDvEtWE-68" vertex="1" connectable="0">
           <mxGeometry x="0.2901" y="1" relative="1" as="geometry">
-            <mxPoint x="-3" y="-6" as="offset" />
+            <mxPoint x="-22" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#67AB9F;entryX=0.932;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="drD9BbOAFERahJ8ECZt4-2" edge="1">
@@ -148,7 +148,7 @@
           <mxGeometry x="131" y="-278" width="66" height="38" as="geometry" />
         </mxCell>
         <mxCell id="jSkQstID_xtaI9SZuhtN-65" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;pays&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;protocol&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;color: rgb(184, 84, 80);&quot;&gt;fee&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="436.1456706097645" y="-208" as="geometry" />
+          <mxGeometry x="471.1456706097645" y="-208" as="geometry" />
         </mxCell>
         <mxCell id="mvOBAzUROKTbR41QECz8-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;i&gt;protocols&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;i&gt;for loans&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="488.5" y="-285.75" width="59" height="36" as="geometry" />
