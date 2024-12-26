@@ -921,7 +921,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="1162" dy="193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1026,14 +1026,6 @@
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-16" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#CCCC00;" parent="1" vertex="1">
           <mxGeometry x="-377.74" y="469.95000000000005" width="22.5" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="mmodVlDdVjjAM-ESpZG1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;endSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="upl1Wif3RzG9tkNlCkJ6-18" target="upl1Wif3RzG9tkNlCkJ6-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-637" y="484" />
-              <mxPoint x="-637" y="700" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-18" value="" style="html=1;align=center;verticalAlign=middle;dashed=0;rotation=-90;strokeWidth=1;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-479.29" y="457.46" width="24.8" height="53.53" as="geometry" />
@@ -1398,9 +1390,6 @@
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-17" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="-578.41" y="469.95000000000005" width="22.5" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="mmodVlDdVjjAM-ESpZG1-4" value="&lt;font color=&quot;#e6a365&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;verify policy&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rotation=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-611.9983309032368" y="686" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
