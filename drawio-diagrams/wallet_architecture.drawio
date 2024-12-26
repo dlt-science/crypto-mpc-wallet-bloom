@@ -1097,7 +1097,7 @@
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-29" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#e6a365&quot;&gt;verify shard&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="upl1Wif3RzG9tkNlCkJ6-28" vertex="1" connectable="0">
           <mxGeometry x="-0.0658" relative="1" as="geometry">
-            <mxPoint x="10" y="-6" as="offset" />
+            <mxPoint x="2" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="upl1Wif3RzG9tkNlCkJ6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=0;endArrow=block;endFill=0;endSize=2;startSize=2;dashed=1;" parent="1" edge="1">
