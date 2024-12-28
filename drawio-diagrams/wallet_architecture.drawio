@@ -790,7 +790,7 @@
         <mxCell id="jSkQstID_xtaI9SZuhtN-65" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;pays&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(184, 84, 80);&quot;&gt;protocol&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(184, 84, 80);&quot;&gt;fees&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="449.1456706097645" y="-202" as="geometry" />
         </mxCell>
-        <mxCell id="mvOBAzUROKTbR41QECz8-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font&gt;&lt;i&gt;Protocols&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font&gt;&lt;i&gt;for Loans&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
+        <mxCell id="mvOBAzUROKTbR41QECz8-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font&gt;&lt;i&gt;Lending&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font&gt;&lt;i&gt;Protocols&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="488.5" y="-281.75" width="60" height="36" as="geometry" />
         </mxCell>
         <mxCell id="drD9BbOAFERahJ8ECZt4-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.apps2;" parent="1" vertex="1">
@@ -917,7 +917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="1382" dy="302" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1788" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
