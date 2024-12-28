@@ -917,7 +917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uLmXAzAxfpXVJ6ObRv6V" name="txn-sign-tech">
-    <mxGraphModel dx="1842" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1654" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1211,9 +1211,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_dqTUGzEdr0hfHB668wY-73" value="&lt;font color=&quot;#e6a365&quot; style=&quot;font-size: 8px; line-height: 3.2px;&quot;&gt;aggregate&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 8px; line-height: 3.2px;&quot;&gt;partial&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 8px;&quot;&gt;signatures&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FEF5F5;" parent="upl1Wif3RzG9tkNlCkJ6-49" vertex="1" connectable="0">
+        <mxCell id="_dqTUGzEdr0hfHB668wY-73" value="&lt;font color=&quot;#e6a365&quot; style=&quot;font-size: 8px; line-height: 3.2px;&quot;&gt;aggregate&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 8px; line-height: 3.2px;&quot;&gt;partial&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(230, 163, 101); font-size: 8px;&quot;&gt;signatures&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FEF5F5;" parent="upl1Wif3RzG9tkNlCkJ6-49" vertex="1" connectable="0">
           <mxGeometry x="0.2307" y="1" relative="1" as="geometry">
-            <mxPoint x="-26" y="-3" as="offset" />
+            <mxPoint x="-54" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_dqTUGzEdr0hfHB668wY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;startSize=3;endSize=3;strokeColor=default;" parent="1" edge="1">
